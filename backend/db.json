@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Monitor Philips",
+      "price": 567.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Acer",
+      "price": 2345.67
+    },
+    {
+      "id": 3,
+      "name": "Macbook Pro",
+      "price": 12345.67
+    }
+  ]
+}
